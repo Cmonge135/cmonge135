@@ -149,10 +149,6 @@
 &nbsp;
 <a href="https://github.com/Cmonge135" target="_blank"><img src="https://img.shields.io/badge/GitHub-Cmonge135-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="Cmonge135" height="25" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" />
-&nbsp;
 <a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mail.Ru logo" title="contact@carlosmonge.com" height="25" /></a>
-&nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlos.monge-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlos.monge" height="25" /></a>
 
 <p>
