@@ -3,9 +3,9 @@
     </h1>
     <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/Cmonge135) -->
+![Profile views](https://gpvc.arturio.dev/Cmonge135)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge)
 
 
 </div>
