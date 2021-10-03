@@ -114,9 +114,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" />
 &nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Handlebars.js-282C34?logo=Handlebars.js&logoColor=FF6C37" alt="Handlebars.js logo" title="Handlebars.js" height="25" /></a>
+<img src="https://img.shields.io/badge/Handlebars.js-282C34?logo=Handlebars.js&logoColor=FF6C37" alt="Handlebars.js logo" title="Handlebars.js" height="25" />
 &nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Bash-282C34?logo=GNUBash&logoColor=000" alt="GNUBash logo" title="GNUBash" height="25" /></a>
+<img src="https://img.shields.io/badge/Bash-282C34?logo=GNUBash&logoColor=000" alt="GNUBash logo" title="GNUBash" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
@@ -142,6 +142,6 @@
 &nbsp;
 <a href="https://github.com/Cmonge135" target="_blank"><img src="https://img.shields.io/badge/GitHub-Cmonge135-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="Cmonge135" height="25" /></a>
 &nbsp;
-<a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mail.Ru logo" title="contact@carlosmonge.com" height="25" /></a>
+<a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mailto logo" title="contact@carlosmonge.com" height="25" /></a>
 
 <p>
