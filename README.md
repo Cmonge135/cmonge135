@@ -1,18 +1,18 @@
 <div align="center">
-    <h1>Hi There, I'm <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
     </h1>
     <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 
-![Profile views](https://gpvc.arturio.dev/Cmonge135)
+<!-- ![Profile views](https://gpvc.arturio.dev/Cmonge135) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge) -->
 
 
 </div>
 
 <div align="center">
     <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
-    <p> I'm a full-stack developer looking for Freelance projects/internship opportunities.</p>
+    <p> I'm a full-stack developer looking for freelance projects.</p>
 </div>
 
 <hr>
@@ -22,17 +22,14 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **Journeyman Electrician**  pursuing my Bachelors in **Computer Science & Engineering** to become a **Full Stack Web Developer**.  
+🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **Web Developer** pursuing my Bachelors in **Computer Science**.  
 
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learned **Wordpress** and **Affiliate Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learned **Wordpress**, **Affiliate Marketing** and a bit about **Python**. I also got started with [freelancing](https://upwork.com) and [blogging](https://actitudvisionaria.com) recently.  
-
-
-🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **drawing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **drawing** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
-✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem** in 2018.  
 
 <br>
 
@@ -40,19 +37,15 @@
 
 <hr>  
 
-⭐ I’m currently working on a [Bot](https://github.com/Cmonge135/personal-assistant) and learning **TypeScript**. 
+⭐ I’m currently working on a [Bot](https://github.com/Cmonge135/personal-assistant) and learning **TypeScript**.  
 
-🌱 Available for Freelance projects and internship opportunities.  
-
-👯 I’m looking to collaborate on [Codecademy Docs](https://github.com/Codecademy/docs) and [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
+👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
 😭 I’m looking for help with Data Structures and Algorithms   
 
 💬 Ask me about anything, I am happy to help.  
 
 ⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
-
-📧 How to reach me: contact@carlosmonge.com  
  
 
 <br>
