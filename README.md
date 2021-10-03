@@ -43,9 +43,7 @@
 
 😭 I’m looking for help with Data Structures and Algorithms   
 
-💬 Ask me about anything, I am happy to help.  
-
-⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
+💬 Ask me about anything, I am happy to help.   
  
 
 <br>
