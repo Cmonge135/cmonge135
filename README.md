@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
+    <h2> Full-Stack Developer | Freelancer </h2>
     <p> I'm a full-stack developer looking for freelance projects.</p>
 </div>
 
