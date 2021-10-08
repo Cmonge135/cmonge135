@@ -1,13 +1,5 @@
 <div align="center">
-    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-    </h1>
-    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
-
-![Profile views](https://gpvc.arturio.dev/Cmonge135)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge)
-
-
+    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
 <div align="center">
