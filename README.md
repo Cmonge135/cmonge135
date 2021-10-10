@@ -16,9 +16,9 @@
 
 🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **Web Developer** pursuing my Bachelors in **Computer Science**.  
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learned **Wordpress** and **Affiliate Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
-🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **drawing** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside of work, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
@@ -29,7 +29,7 @@
 
 <hr>  
 
-⭐ I’m currently working on a [Bot](https://github.com/Cmonge135/personal-assistant) and learning **TypeScript**.  
+⭐ I’m currently working on a **Bot** and learning **TypeScript**.  
 
 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
