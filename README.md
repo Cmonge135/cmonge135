@@ -18,7 +18,7 @@
 
 🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
-🎹 Outside of work, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside of work, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **electronics tech** to some wacky ones like **juggle**  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
