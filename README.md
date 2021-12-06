@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2> Full-Stack Developer | Freelancer </h2>
+    <h2> Digital Marketer | Full-Stack Developer | Freelancer </h2>
     <p> I'm a full-stack developer looking for freelance projects.</p>
 </div>
 
@@ -14,7 +14,7 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **Web Developer** pursuing my Bachelors in **Computer Science**.  
+🎓 I am [Carlos Monge](https://github.com/Cmonge135), a full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.  
 
 🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
