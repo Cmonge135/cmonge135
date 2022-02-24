@@ -33,7 +33,7 @@
 
 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
-😭 I’m looking for help with CyberSecurity   
+😭 I’m looking for help with **Algorithms**.   
 
 💬 Ask me about anything, I am happy to help.   
  
