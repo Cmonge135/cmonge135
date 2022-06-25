@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a></h1>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 <hr>  
 
-⭐ I’m currently working on a **Bot** and learning **TypeScript**.  
+⭐ I’m currently learning **CyberSecurity**.  
 
 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
